@@ -1,0 +1,2 @@
+This is first line in file2 in main branch
+This is second line
